@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/NinjaVinja/NinjaVinja/blob/main/giphy.gif?raw=true" />
 
 ### 🚀 About Me
 
@@ -51,5 +51,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/NinjaVinja/NinjaVinja/output/snake.svg" alt="Snake animation" />
-
-###
