@@ -51,3 +51,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/NinjaVinja/NinjaVinja/output/snake.svg" alt="Snake animation" />
+### 🐍 Contribution Snake Animation
+
+<img src="https://raw.githubusercontent.com/NinjaVinja/NinjaVinja/output/snake.svg" alt="Snake animation" />
+
