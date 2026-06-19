@@ -13,9 +13,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Advanced Python & Robotics fundamentals for future research**
-- 👯 I’m looking to collaborate on **open-source Python & Robotics projects**
-- 🌱 I’m currently learning **Advanced Python & Robotics**
+- 🔭 I’m currently working on **Advanced Python & AI/ML for future research**
+- 👯 I’m looking to collaborate on **open-source Python & AI projects**
+- 🌱 I’m currently learning **Advanced Python & AI/ML**
 - 💬 Ask me about **the day I deployed “Hello World” to production and broke the internet 🌍🔥**
 - 📫 How to reach me: **taha.ahmad4700@gmail.com**
 - 👨‍💻 All of my projects are available at: [GitHub.com/NinjaVinja](https://github.com/NinjaVinja)
