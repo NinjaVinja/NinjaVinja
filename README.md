@@ -83,11 +83,6 @@ Flask-based donor-recipient matching platform, admin approval workflow, live map
 ## 📊 Mission Log (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NinjaVinja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=E63946&icon_color=E63946&text_color=ffffff" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NinjaVinja&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d0d0d&title_color=E63946&text_color=ffffff" height="165" alt="languages graph" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NinjaVinja&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=E63946&fire=E63946&currStreakLabel=E63946" alt="streak stats" />
 </div>
 
