@@ -16,7 +16,7 @@
 
 ## 🈲 Scroll of Self
 
-I'm **Muhammad Taha Ahmad** — codename `NinjaVinja`. 6th-semester BSCS student at the **University of Central Punjab**, currently ranked Genin in the ways of Python and AI/ML, training hard for a promotion.
+I'm **Muhammad Taha Ahmad** — codename `NinjaVinja`. 7th-semester BSCS student at the **University of Central Punjab**, currently ranked Genin in the ways of Python and AI/ML, training hard for a promotion.
 
 ```python
 class NinjaVinja(Shinobi):
@@ -28,13 +28,12 @@ class NinjaVinja(Shinobi):
     allegiance  = "Akatsuki (unofficially)"
 
     def status(self):
-        return "🔴 Seeking internship contract — will travel for the right mission"
+        return "🔴 On a solo training arc — sharpening AI/ML jutsu"
 ```
 
-- 🍥 6th-semester BSCS, CGPA **3.64/4.00** — steady grinding, no shortcuts
+- 🍥 7th-semester BSCS, CGPA **3.70/4.00** — steady grinding, no shortcuts
 - 🥷 Training arc: **NumPy/Pandas → Scikit-learn → TensorFlow/PyTorch → FastAPI**
 - 📜 Running daily drills through **100 Days of Code**
-- 🎯 On a mission to land a Python/AI internship — targeting Arbisoft, Nextbridge, FiveRivers, Contour, and beyond
 - ☁️ Off the clock: Akatsuki lore, gaming, and rice-ing my desktop setup
 - 📬 Summon me: **taha.ahmad4700@gmail.com**
 
@@ -72,11 +71,9 @@ Flask-based donor-recipient matching platform, admin approval workflow, live map
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cpp" title="C++"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=E63946" height="42" alt="flask" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="pandas" title="Pandas"/>
+  <img src="https://img.shields.io/badge/Turtle-2E7D32?style=for-the-badge&logoColor=white" height="42" alt="turtle" title="Turtle Graphics"/>
+  <img src="https://img.shields.io/badge/Tkinter-8B0000?style=for-the-badge&logoColor=white" height="42" alt="tkinter" title="Tkinter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="tensorflow" title="TensorFlow"/>
 </div>
